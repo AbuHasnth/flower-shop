@@ -22,7 +22,7 @@
     width: 382px;
     height: 530px;
     margin-right: 500px;
-    margin-top: 300px;
+    margin-top: 130px;
     
 }
 
@@ -45,8 +45,8 @@
     border-top: 1px solid black;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
-    height: 400px;
-    width: 300px;
+    height: 370px;
+    width: 311px;
    padding: 0px 30px;
    
 }
@@ -70,4 +70,13 @@
 }
 #third{
     background-color: aquamarine;
+}
+.feature-img-container h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+.support-container{
+  display: flex;
+  gap: 40px;
+  margin: 30px 20%;  
 }

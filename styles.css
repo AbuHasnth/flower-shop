@@ -78,5 +78,7 @@
 .support-container{
   display: flex;
   gap: 40px;
-  margin: 30px 20%;  
+  margin: 0  35%;  
+  background-color: azure;
+  width: 80%;
 }
